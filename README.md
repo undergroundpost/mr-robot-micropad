@@ -8,7 +8,7 @@ Built around a Wemos D1 Mini (ESP8266) and a 0.96" OLED display, this little guy
 
 ## 📸 Project Photo
 
-![Mr. Robot Micropad Photo](images/micropad.jpg)
+![Mr. Robot Micropad Photo](images/micropad.png)
 
 ---
 
