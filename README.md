@@ -2,7 +2,7 @@
 
 **Mr. Robot Micropad** is a quirky, minimalist two-key input device designed for Home Assistant users.
 
-Built around a Wemos D1 Mini (ESP8266) and a 0.96" OLED display, this little guy blinks, glances, and looks around the room with expressive animated eyes. Each key can trigger up to eight unique Home Assistant actions using single, double, triple tap, or long-press. Mount it anywhere with magnets, and customize it with your own keycaps, colors, and plate materials — even the exposed wiring becomes part of the aesthetic.
+Built around a Wemos D1 Mini (ESP8266) and a 0.96" OLED display, this little guy blinks, glances, and looks around the room with expressive animated eyes. Trigger up to eight unique Home Assistant actions using single, double, triple tap, or long-presses. Mount it anywhere with magnets, and customize it with your own keycaps, colors, and plate materials — even the exposed wiring becomes part of the aesthetic.
 
 ---
 
